@@ -1,0 +1,28 @@
+body {
+    font-family: 'Times New Roman';
+    background-color:purple;
+    
+}
+
+header {
+    background-color: black;
+    color:green;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+    float: right;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color:orange
+}
+
+h2 {
+    color: purple;
+}

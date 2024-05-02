@@ -1,0 +1,48 @@
+body {
+    background-image: url(mskiti.jpg);
+    font-family: 'Times New Roman';
+}
+header {
+    color: #e01c1c;
+    padding: 10px 20px;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 20px;
+}
+nav ul li a {
+    color: blueviolet;
+    text-decoration: none;
+}
+main {
+    padding: 20px;
+}
+section {
+    margin-bottom: 20px;
+}
+section h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+ h1 {
+    text-align:center;
+    font-family:Times New Roman;
+    font-size: 50px;
+ }
+h2{
+    text-align: center;
+    color:orchid;
+}
+hr{
+    border-color:black;
+}
+p{
+    font-size: 20px;
+}
